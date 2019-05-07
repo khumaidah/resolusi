@@ -1,6 +1,6 @@
 RESOLUSI
-  - Memahami algoritma dan pemrograman secara mendalam
   - Memahami secara mendalah Design Patrn
   - Mahir bahasa ingris
+  - Memahami konsep
  
   
