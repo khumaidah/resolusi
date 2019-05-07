@@ -1,4 +1,7 @@
 RESOLUSI BELAJAR
 -html
+ -dasar
+ -menengah
 -css
 -algoritma
+-struktur data
