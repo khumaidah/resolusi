@@ -1,4 +1,6 @@
 RESOLUSI BELAJAR
 -html
+ -dasar
+ -mahir
 -css
 -algoritma
