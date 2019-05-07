@@ -1,0 +1,5 @@
+RESOLUSI
+  - Memahami algoritma dan pemrograman secara mendalam
+  - Memahami secara mendalam OOP PHP
+  - Memahami secara mendalah Design Patrn
+  
